@@ -1,0 +1,52 @@
+/* CSS Document */
+
+.section {
+    /* the important one*/
+    background-attachment: fixed; 
+ 
+    background-size: auto 80%;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+	color: beige;
+}
+#section1 {
+    background-color: #2F2F2F;
+	padding-left: 37%;
+	padding-top:20%;
+}
+#section2 {
+    background-color: #2F2F2F;
+	
+	padding-left: 2%;
+	padding-top: 5%;
+}
+#section3 {
+    background-color: #2F2F2F;
+	
+	padding-left: 2%;
+	padding-top: 5%;
+}
+#section4 {
+    background-color: #2F2F2F;
+	
+	padding-left: 2%;
+	padding-top: 5%;
+}
+#section5 {
+    background-color: #2F2F2F;
+	
+	padding-left: 2%;
+	padding-top: 5%;
+}
+#section6 {
+    background-color: #2F2F2F;
+	
+	padding-left: 2%;
+	padding-top: 5%;
+}
+#section7 {
+    background-color: #2F2F2F;
+}
+#section8 {
+    background-color: #2F2F2F;
+}
