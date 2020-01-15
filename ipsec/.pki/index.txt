@@ -1,0 +1,8 @@
+V	300112192917Z		01	unknown	/CN=vpn.ethanaldrich.net
+R	300112192918Z	200115193856Z	02	unknown	/CN=phone
+R	300112192918Z	200115193856Z	03	unknown	/CN=laptop
+R	300112192918Z	200115193856Z	04	unknown	/CN=desktop
+V	300112193849Z		05	unknown	/CN=ethanaldr
+V	300112193849Z		06	unknown	/CN=ethanaldrich9986
+V	300112193849Z		07	unknown	/CN=billymyers
+V	300112193850Z		08	unknown	/CN=jaworth

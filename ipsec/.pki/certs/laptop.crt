@@ -1,0 +1,60 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 3 (0x3)
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: CN=vpn.ethanaldrich.net
+        Validity
+            Not Before: Jan 15 19:29:18 2020 GMT
+            Not After : Jan 12 19:29:18 2030 GMT
+        Subject: CN=laptop
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (384 bit)
+                pub:
+                    04:d7:ab:7d:09:12:eb:b7:97:15:1d:1c:20:cb:77:
+                    f8:87:17:62:39:82:cb:a6:55:76:4a:d8:af:d0:0e:
+                    d4:a3:55:11:4f:b2:42:3c:d5:33:3e:fd:07:8c:12:
+                    9e:4f:e4:bc:59:d3:c0:5e:2a:73:0f:e6:16:04:14:
+                    f1:c5:91:61:f6:87:e0:03:f5:7d:ba:f5:93:73:e2:
+                    00:66:af:0e:86:93:1e:41:73:e5:21:e1:c9:8d:ef:
+                    a2:68:b1:8b:2f:ea:be
+                ASN1 OID: secp384r1
+                NIST CURVE: P-384
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                66:B6:9C:A9:07:B4:A0:FB:DF:C6:CF:D3:2A:CA:DA:62:3D:D0:B9:CB
+            X509v3 Authority Key Identifier: 
+                keyid:99:9B:43:64:31:11:E8:12:D3:9A:A8:C9:22:69:56:26:16:D5:C0:0F
+                DirName:/CN=vpn.ethanaldrich.net
+                serial:4E:24:83:7E:8C:DF:2F:39:D2:AD:F8:E8:14:66:4A:9A:98:8C:FF:08
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication, ipsec Internet Key Exchange
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:laptop
+    Signature Algorithm: ecdsa-with-SHA256
+         30:65:02:30:5e:b5:af:4a:0c:1b:e4:69:2c:28:8a:b0:f3:cc:
+         e4:73:2f:46:f0:91:30:2e:23:24:77:4b:72:83:52:c9:1e:1b:
+         c9:8b:21:42:0e:a4:83:32:95:d4:3d:cb:3d:5c:be:15:02:31:
+         00:e3:f8:35:cc:9d:fb:10:5c:07:ea:c4:4d:af:43:7c:b2:b1:
+         75:a4:07:21:43:fd:15:82:e1:c5:e6:41:0e:5f:df:ae:c5:08:
+         10:fd:9d:7b:41:c9:cc:42:65:b7:55:3e:d3
+-----BEGIN CERTIFICATE-----
+MIICLzCCAbWgAwIBAgIBAzAKBggqhkjOPQQDAjAfMR0wGwYDVQQDDBR2cG4uZXRo
+YW5hbGRyaWNoLm5ldDAeFw0yMDAxMTUxOTI5MThaFw0zMDAxMTIxOTI5MThaMBEx
+DzANBgNVBAMMBmxhcHRvcDB2MBAGByqGSM49AgEGBSuBBAAiA2IABNerfQkS67eX
+FR0cIMt3+IcXYjmCy6ZVdkrYr9AO1KNVEU+yQjzVMz79B4wSnk/kvFnTwF4qcw/m
+FgQU8cWRYfaH4AP1fbr1k3PiAGavDoaTHkFz5SHhyY3vomixiy/qvqOB0jCBzzAJ
+BgNVHRMEAjAAMB0GA1UdDgQWBBRmtpypB7Sg+9/Gz9MqytpiPdC5yzBaBgNVHSME
+UzBRgBSZm0NkMRHoEtOaqMkiaVYmFtXAD6EjpCEwHzEdMBsGA1UEAwwUdnBuLmV0
+aGFuYWxkcmljaC5uZXSCFE4kg36M3y850q346BRmSpqYjP8IMCcGA1UdJQQgMB4G
+CCsGAQUFBwMBBggrBgEFBQcDAgYIKwYBBQUHAxEwCwYDVR0PBAQDAgWgMBEGA1Ud
+EQQKMAiCBmxhcHRvcDAKBggqhkjOPQQDAgNoADBlAjBeta9KDBvkaSwoirDzzORz
+L0bwkTAuIyR3S3KDUskeG8mLIUIOpIMyldQ9yz1cvhUCMQDj+DXMnfsQXAfqxE2v
+Q3yysXWkByFD/RWC4cXmQQ5f367FCBD9nXtBycxCZbdVPtM=
+-----END CERTIFICATE-----
